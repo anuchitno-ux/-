@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix ระบบแจ้งซ่อม คณะสหเวชศาสตร์ มหาวิทยาลัยพะเยา",
+  "description": "ระบบบริหารจัดการงานแจ้งซ่อม ใบเสนอราคา การอนุมัติ และงบประมาณประจำปี คณะสหเวชศาสตร์ มหาวิทยาลัยพะเยา เชื่อมต่อข้อมูลบน Google Sheets พร้อมการเข้าสู่ระบบด้วยบัญชี Google",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
